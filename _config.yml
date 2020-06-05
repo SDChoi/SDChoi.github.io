@@ -3,7 +3,7 @@ title: Choi, SD GitBlog
 baseurl: "https://sdchoi.github.io/"
 desc: A minimal blog for off-topic blog entries.
 about: TBD
-#image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
